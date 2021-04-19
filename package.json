@@ -1,0 +1,24 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "Writing to file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faizol-Shobola/Node-Js-Writing-to-file.git"
+  },
+  "author": "Shobola Faizol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faizol-Shobola/Node-Js-Writing-to-file/issues"
+  },
+  "homepage": "https://github.com/Faizol-Shobola/Node-Js-Writing-to-file#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "uuid": "^8.3.2"
+  }
+}
